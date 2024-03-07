@@ -2,7 +2,7 @@
 
 ## Author(s)
 
-- Sina Nazeri (Linkedin profile)
+- Sina Nazeri 
   
 - Talha Siddiqui
 
